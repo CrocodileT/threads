@@ -1,0 +1,5 @@
+Gosha,Worker,13.09,1923
+Masha,Worker,13.09,1923
+Sasha,Manager,39.01.0202
+Pasha,Manager,39.01.0202
+Lesha,Director,01.09.1292
